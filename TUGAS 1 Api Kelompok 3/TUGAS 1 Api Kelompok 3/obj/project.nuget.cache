@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dBIf1/Bge/rc1ZAAW0l4/+GjQtNI1oXqoq/b9OTWgzj/iB/UvctvhAdTx8WlEif2aSGLBWuH1cka7sdq5sD4dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\TUGAS 1 Api Kelompok 3\\TUGAS 1 Api Kelompok 3\\TUGAS 1 Api Kelompok 3\\TUGAS 1 Api Kelompok 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
